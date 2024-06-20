@@ -15,7 +15,6 @@ This 3D Graphics Engine is a Python-based project utilizing Pygame for rendering
 - [Key Features](#key-features)
 - [Keyboard Controls](#keyboard-controls)
 - [Mouse Controls](#mouse-controls)
-- [License](#license)
 
 ## Installation
 
